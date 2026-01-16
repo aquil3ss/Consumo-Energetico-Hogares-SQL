@@ -27,9 +27,6 @@ Analizar los datos de consumo energético para identificar patrones, optimizar e
 ### docs/
 - `proyecto_grupo_5_consultas.docx` → Documentación con respuestas a preguntas de análisis y capturas de resultados  
 
-### README.md
-- Archivo de explicación general del proyecto y la estructura del repositorio
-
 🛠 **Herramientas utilizadas**  
 - SQL (MySQL) para análisis y consultas  
 - Excel para normalización y limpieza de datos iniciales  
