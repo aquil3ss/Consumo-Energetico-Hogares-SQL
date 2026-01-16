@@ -1,4 +1,4 @@
-Consumo Energético – Hogares Inteligentes (SQL)
+# Proyecto Consumo Energético – Hogares Inteligentes (SQL)
 
 📌 **Descripción del proyecto**  
 Proyecto académico desarrollado en el curso Data Analytics – ESPOL, enfocado en el análisis de consumo energético en hogares inteligentes.  
